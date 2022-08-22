@@ -1,4 +1,4 @@
-# Liberland Press Release
+# Liberland Press Releases
 
 ## Published
 
