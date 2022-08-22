@@ -1,4 +1,6 @@
 # Liberland Press Releases
+This repository contains the links to the text versions of the press releases which we published. Releases are organized per year published and alphabetically. We also list unpublished releases, access to which is restricted.
+As we publish more releases, their texts will appear in this repository.
 
 ## Published
 
