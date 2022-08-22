@@ -3,14 +3,19 @@
 ## Published
 
 ### 2022
+- [Escape Artist Interview Vit Jedlicka](https://docs.google.com/document/d/10s_YUDlfsnsyq4Valg24LS8smjpE0NwDRK_QhsxlWYk/edit)
 - [KYC Article](https://docs.google.com/document/d/1JIXXhLun4IINimkxwc9TQ-XiDs6yA_Hx6NQ2cdYbxxk/edit)
-- [Political system](https://docs.google.com/document/d/1nqcpO2DtiWyCUQeaVEuA_swS_ogXM49cT8sbAXYWRBM/edit)
-- [Newsletter](https://docs.google.com/document/d/12Dev7MXb9nzX20napxDPSYbRQYDFROPfg2YvlLEa8bU/edit)
-- [Press Release Cruise](https://docs.google.com/document/d/1E1xic3zCbyYKyWc4x4Sah2FflC81EnV3NUKuSmAAu50/edit)
 - [Letter](https://docs.google.com/document/d/11PRiIhGs0kYwBLHOn5kgij6D3bl0vaqdWLiNainOYkQ/edit)
 - [Ludwig von Mises and Ukraine](https://docs.google.com/document/d/1Uz7hUz2fg0PVPGm8iXt4cMJFWKORDBb7ANti28PmPMU/edit)
-- [Truckers](https://docs.google.com/document/d/1lVIfw3OU5V3Siqh2DparcCpd7ZcljOQQkUhGKvVfTE4/edit#heading=h.eo8y68awbzgq)
+- [Mass Mail Floating Man 2022](https://docs.google.com/document/d/12b8aMCxVZc3RVeJk4hJVA0hbRHKv52oR8NndJhZHdfY/edit?usp=sharing)
 - [Medical Maddness](https://docs.google.com/document/d/1hW7lPrxZVpf1FWf6XdJGt63xXnMbO3XHyb_bGcY7vCI/edit)
+- [Microarticle RFE Liberland](https://docs.google.com/document/d/15DUjl3MA7ASAedlxOJ-FWoucF-XQjqBaiWY0hexdr1c/edit?usp=sharing)
+- [Newsletter](https://docs.google.com/document/d/12Dev7MXb9nzX20napxDPSYbRQYDFROPfg2YvlLEa8bU/edit)
+- [Political system](https://docs.google.com/document/d/1nqcpO2DtiWyCUQeaVEuA_swS_ogXM49cT8sbAXYWRBM/edit)
+- [Press Release Floating Man](https://docs.google.com/document/d/1JU6Ndj_z_jpGf16VkRL1rIOvCuZgrPHyqIQWPW8nm7g/edit?usp=sharing)
+- [Press Release Cruise](https://docs.google.com/document/d/1E1xic3zCbyYKyWc4x4Sah2FflC81EnV3NUKuSmAAu50/edit)
+- [Truckers](https://docs.google.com/document/d/1lVIfw3OU5V3Siqh2DparcCpd7ZcljOQQkUhGKvVfTE4/edit#heading=h.eo8y68awbzgq)
+
 
 ### 2021
 - [Press Release Christmas Giftgiving at Gornja Siga](https://docs.google.com/document/d/1ry65yKUaze1Gmnx6jTyPxxDS78xdMQjYT7Yq4AM-thk/edit)
@@ -18,6 +23,8 @@
 - [Reply to Czech Article](https://docs.google.com/document/d/1k1UuZMKLP1t0rExaDzBNm2m2sxFXBc5NNhvU1p6HIag/edit)
 - [Short Notice](https://docs.google.com/document/d/14K_ZsF5eS2wxabXINzxKc8sgcpJ4G0TjMIlz7XXaB8E/edit)
 - [Emigration: a Moral Position](https://docs.google.com/document/d/1XxuerBeY6q5UQJRIafSjpIjZ-Q5_podUtrBLM0_f4F8/edit)
+- [Liberland and Boldt](https://docs.google.com/document/d/1mElaMNY5bbMd-RGbY4uEs3Uh26-8WH8cT13dg-rSnis/edit?usp=sharing)
+- 
 
 ## Non Published
 - [US Constitution and the Liberland Constitution /OBSOLETE](https://docs.google.com/document/d/1TU12EMamfPJL0hB-AoDXAu7Y-PccT4I1Ev-43xJvErE/edit)
@@ -26,6 +33,11 @@
 - [The Jailing of Dread Pirate Roberts](https://docs.google.com/document/d/1sngbDI5GLMd-j8cAMMEoBp2q41xssolsoaxAr7u0roQ/edit)
 - [Copy](https://docs.google.com/document/d/1rd5GY3rK6Rjtpv-annTjhSIoluBeDjvpRHJRFG3sv4Q/edit#heading=h.uy7jbbalrcuo)
 - [Book Review](https://docs.google.com/document/d/10s_YUDlfsnsyq4Valg24LS8smjpE0NwDRK_QhsxlWYk/edit)
+- [Wiki for Liberland](https://docs.google.com/document/d/10s_YUDlfsnsyq4Valg24LS8smjpE0NwDRK_QhsxlWYk/edit)
+- [Liberland Dispute Resolution System](
+- [Interview Vit Jedlicka](https://docs.google.com/document/d/10s_YUDlfsnsyq4Valg24LS8smjpE0NwDRK_QhsxlWYk/edit))
+- [Judicial System](https://docs.google.com/document/d/1g_AokZ6s5D-dnf2EeawmfNT3_19PQSUJzBJNsslo8D0/edit?usp=sharing)
+- [FAQ for the Newspaper](https://docs.google.com/document/d/1qtTNWQqtN213oQwLCxTIt8rOdJbVpR8Hg9Ynaw6uHgg/edit?usp=sharing)
 
 ## Press Release
 
